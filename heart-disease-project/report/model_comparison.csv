@@ -1,0 +1,4 @@
+Model,Best Params,Accuracy,ROC-AUC
+Logistic Regression,"{'clf__C': 0.1, 'clf__penalty': 'l2', 'clf__solver': 'lbfgs'}",0.842391304347826,0.9120038259206121
+Random Forest,"{'clf__max_depth': 5, 'clf__min_samples_leaf': 2, 'clf__min_samples_split': 5, 'clf__n_estimators': 100}",0.8532608695652174,0.9320899091343855
+Gradient Boosting,"{'clf__learning_rate': 0.01, 'clf__max_depth': 3, 'clf__n_estimators': 200}",0.8478260869565217,0.9280846484935437
